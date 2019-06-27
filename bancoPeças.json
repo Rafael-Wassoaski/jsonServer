@@ -1,11 +1,10 @@
 {
-  "peças": [
+  "peÃ§as": [
     {
-      "nomeDaPeça":"Placa NVidia 1080",
-      "fabricanteDaPeça": "NVidia",
-      "preçoDaPeça": 2000.00,
-      "imagemDaPeça": "https://tweakers.net/i/4lU9PsKPP-1A3oTKik3S4mjyJco=/i/2001087247.png"
-    },
-    
+      "nomeDaPeÃ§a":"Placa NVidia 1080",
+      "fabricanteDaPeÃ§a": "NVidia",
+      "preÃ§oDaPeÃ§a": 2000.00,
+      "imagemDaPeÃ§a": "https://tweakers.net/i/4lU9PsKPP-1A3oTKik3S4mjyJco=/i/2001087247.png"
+    }
   ]
 }
