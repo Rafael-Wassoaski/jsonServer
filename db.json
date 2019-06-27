@@ -1,46 +1,11 @@
 {
-  "herois": [
+  "peças": [
     {
-      "nomeHeroi":"Homem de ferro",
-      "nome": "Açao",
-      "poder": 1994,
-      "capa": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,686,1000_AL_.jpg"
+      "nomeDaPeça":"Placa NVidia 1080",
+      "fabricanteDaPeça": "NVidia",
+      "preçoDaPeça": 2000.00,
+      "imagemDaPeça": "https://tweakers.net/i/4lU9PsKPP-1A3oTKik3S4mjyJco=/i/2001087247.png"
     },
-    {
-      "nomeHeroi":"Solo: A Star Wars History",
-      "nome": "Aventura",
-      "poder": 2018,
-      "capa": "https://m.media-amazon.com/images/M/MV5BOTM2NTI3NTc3Nl5BMl5BanBnXkFtZTgwNzM1OTQyNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
-    },
-    {
-      "nomeHeroi":"Bird Box",
-      "nome": "Drama",
-      "poder": 2018,
-      "capa": "https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
-    },
-    {
-      "nomeHeroi":"Ola",
-      "nome": "Terror",
-      "poder": 2017,
-      "capa": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
-    },
-    {
-      "nomeHeroi":"Spotlight",
-      "nome": "Crime",
-      "poder": 2015,
-      "capa": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_SY1000_CR0,0,676,1000_AL_.jpg"
-    },
-    {
-      "nomeHeroi":"Unbreakable",
-      "nome": "Drama",
-      "poder": 2000,
-      "capa": "https://m.media-amazon.com/images/M/MV5BMDIwMjAxNzktNmEzYS00ZDY5LWEyZjktM2Y0MmUzZDkyYmZkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX676_CR0,0,676,999_AL_.jpg"
-    },
-    {
-      "nomeHeroi":"Die Hard",
-      "nome": "Ação",
-      "poder": 1988,
-      "capa": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
-    }
+    
   ]
 }
